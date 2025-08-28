@@ -3,7 +3,7 @@
 ## Datos del estudiante
   **Nombre:** Stalin Gabriel Mendieta López  
   **Segundo Nivel - 2025**  
-  **Tarea Semana 11 - POO: Colecciones en Java**  
+  **Tarea Semana 11 - POO: Colecciones en Java - Actividad**  
   **Tema:** Identificación y corrección de errores en colecciones Java
 
 ## Se incluyen dos versiones del programa:
